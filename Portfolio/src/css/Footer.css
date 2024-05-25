@@ -1,0 +1,16 @@
+.footer {
+    text-align: center;
+  height: 200px;
+  background:linear-gradient(#ffffff,rgb(50, 91, 255));
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-family: sans-serif;
+    font-size: larger;
+    font-style: oblique;
+    border: 1px solid black;
+
+}
+.a:hover{
+    color: white;
+}
